@@ -1,0 +1,91 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 7 Feb 2023, 23:48:52
+    Author     : Boa Im
+*/
+
+html {
+    background: linear-gradient(white, orange);
+    height: 85%;
+    padding: 3% 3% 3% 3%;
+}
+
+body {
+    border: solid 1px black;
+    background-color: white;
+    width: 97%;
+    height: 97%;
+    margin: auto;
+    display: block;
+    padding: 20px 20px 20px 20px;
+}
+
+header {
+    height: 150px;
+}
+
+header img {
+    height: 100px;
+    float: left;
+    margin-left: 10px;
+}
+
+header h1 {
+    margin: 0;
+    padding-top: 10px;
+    padding-left: 150px;
+    color: orange;
+}
+
+header h3 {
+    margin: 0 0 30px 0;
+    height: 30px;
+    padding-left: 150px;
+    color: green;
+    font-style: italic;
+}
+
+nav {
+    border-top: 3px solid orange;
+    border-bottom: 3px solid orange;
+    height: 33px;
+    display: block;
+    width: 100%;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+nav ul li {
+    float: right;
+}
+
+nav ul li a {
+    display: block;
+    width: 100px;
+    text-align: center;
+    padding: 0.5em 0;
+    font-weight: bold;
+    color: Green;
+    border-left: 3px solid black;
+}
+
+footer {
+    border-top: 3px solid orange;
+    margin-top: 20px;
+}
+
+footer p {
+    text-align: right;
+}
+
+#button {
+    margin-left: 80px;
+}
