@@ -2,5 +2,5 @@
 <Context path="/BIClub">
     <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true"
               maxActive="100" maxIdle="30" maxWait="10000" removeAbandoned="true" removeAbandonedTimeout="60" 
-              type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/memberdb?autoReconnect=true" name="jdbc/memberdb" username="root" password="" />
+              type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/memberdb?autoReconnect=true" name="jdbc/memberdb" username="root" password="11250101Im!" />
 </Context>

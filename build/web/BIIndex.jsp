@@ -19,7 +19,7 @@
         <main>
             <h2>Java Web Technologies: Section 2</h2>
             <p>Pair Programming Team: Boa Im</p>
-            <h2>Assignment 3</h2>
+            <h2>Assignment 4</h2>
             <h2>Driver: Boa Im</h2>
             <h2>Observer: Boa Im</h2>
             <br>
